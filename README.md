@@ -1,1 +1,1 @@
-encoded_content
+{"encoding": "base64", "content": "IyBCb29rIEJ1aWxkZXIgU3lzdGVtCgpBbiBhdXRvbWF0ZWQgYm9vay1idWlsZGluZyBzeXN0ZW0gdXNpbmcgc3RydWN0dXJlZCBwcm9tcHRzIGFuZCBHaXRIdWIgZm9yIG9yZ2FuaXphdGlvbi4="}
