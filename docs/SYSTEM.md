@@ -1,1 +1,1 @@
-{"content": "# Book Builder System\n\nThis document outlines the automated book-building system.", "encoding": "utf-8"}
+{"content": "IyBCb29rIEJ1aWxkZXIgU3lzdGVtCgpUaGlzIGRvY3VtZW50IG91dGxpbmVzIHRoZSBhdXRvbWF0ZWQgYm9vay1idWlsZGluZyBzeXN0ZW0u", "encoding": "base64"}
