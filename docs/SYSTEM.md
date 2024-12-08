@@ -1,1 +1,3 @@
-{"content": "IyBCb29rIEJ1aWxkZXIgU3lzdGVtCgpUaGlzIGRvY3VtZW50IG91dGxpbmVzIHRoZSBhdXRvbWF0ZWQgYm9vay1idWlsZGluZyBzeXN0ZW0u", "encoding": "base64"}
+# Book Builder System
+
+This document outlines the automated book-building system.
