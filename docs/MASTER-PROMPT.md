@@ -1,1 +1,1 @@
-UGxlYXNlIG5vdGU6IFRoaXMgaXMgYSB0ZXN0IGZpbGUgZm9yIHRoZSBzeXN0ZW0u
+{"content": "# Book Builder System Documentation", "encoding": "utf8"}
