@@ -1,0 +1,1 @@
+{"content": "# Book Builder System\n\nThis document outlines the automated book-building system.", "encoding": "utf-8"}
