@@ -1,1 +1,1 @@
-{"content": "# Book Builder System\n\nAn automated book-building system using structured prompts and GitHub for organization.", "encoding": "utf-8"}
+encoded_content
