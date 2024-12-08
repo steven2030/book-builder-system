@@ -1,25 +1,69 @@
 # Book Builder Workflow
 
-## Steps
-1. Create Dramatic Initial Story
-2. Use Plot System
-3. Story Plot Outline
-4. Generate Character Sheets
-5. Character Arcs Setup
-6. Subplot Tracking
-7. Master Tracker Setup
-8. Full Information Integration
-9. Act Structure Refinement
-10. Beat Development
-11. Chapter Writing
-12. Review Process
+## Initial Phase
+1. Create Repository Structure
+   - /acts
+   - /characters
+   - /subplots
+   - /drafts
+   - /master-tracker
+   - /redundancy-tracking
 
-## Tracking Components
-### Master Tracker Columns
-- Chapter #
-- Act #
-- Rising tension scale (1-10)
-- 3 line summary
-- Subplot integrations
-- Timeline points
-- Status
+## Foundation Phase
+1. Create BOOK_MASTER.md
+   - Style guide
+   - Pacing framework
+   - Technical specifications
+   - World rules
+
+2. Setup Story Foundation
+   - Create dramatic initial story
+   - Generate plot system
+   - Develop story plot outline
+   - Create character sheets
+
+3. Setup Tracking Systems
+   - Character arcs
+   - Subplot tracking
+   - Master tracker
+   - REPETITION_TRACKER.md initialization
+
+4. Information Integration
+   - Cross-reference all systems
+   - Verify consistency
+
+## Development Phase
+1. Structure Refinement
+   - Act structure
+   - Story beats
+   - Chapter templates
+   - Tracking components
+
+2. Chapter Development (Three-Part Structure)
+   - Hook & Setup
+   - Core Development
+   - Cliffhanger & Bridge
+
+3. Chapter Tracking
+   - Number and act
+   - Tension scale (1-10)
+   - Three-line summary
+   - Subplot integration
+   - Timeline points
+   - Status
+
+## Review Process
+1. Redundancy Checking
+   - Real-time phrase tracking
+   - Pattern analysis
+   - Alternative suggestions
+
+2. Consistency Validation
+   - Timeline check
+   - Character arc review
+   - Tension curve analysis
+
+3. Quality Control
+   - Writing style adherence
+   - Pacing verification
+   - Subplot integration
